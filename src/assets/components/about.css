@@ -1,0 +1,17 @@
+.about-img{
+    width: 100%;
+}
+
+
+.about-section{
+    padding: 5% 0%;
+}
+
+.about-section section{
+ display: flex;
+}
+
+.row-about{
+    align-items: center;
+}
+

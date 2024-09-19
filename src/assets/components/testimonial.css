@@ -1,0 +1,27 @@
+.carousel-custom {
+    background-color: #A00D60;
+    color: #fff;
+    padding: 5%;
+}
+
+.testimonial-item {
+    background-color: #A00D60;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin: 0 10px;
+}
+
+.testimonial-img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+}
+
+
+.slick-center .testimonial-item {
+    transform: scale(1.05); 
+}

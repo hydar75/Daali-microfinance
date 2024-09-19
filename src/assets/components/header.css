@@ -1,0 +1,8 @@
+.logo{
+    height: 60px;
+}
+
+.main-menu{
+    justify-content: end !important;
+    width: 100%;
+}
